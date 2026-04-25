@@ -25,7 +25,7 @@ The Vrinda Store wants to create an annual sales report for 2024. So that, the o
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
+<img width="1285" height="599" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/8f51fd05-2a24-47aa-aaf7-264df60bfd9c" />
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
