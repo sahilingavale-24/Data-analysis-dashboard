@@ -3,7 +3,7 @@
 The Vrinda Store wants to create an annual sales report for 2024. So that, the owner of the Vrinda store can understand their customers and grow more sales in upcoming years.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/sahilingavale-24/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
